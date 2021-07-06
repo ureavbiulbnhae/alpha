@@ -1,0 +1,35 @@
+{	
+	"1":{
+			"name": "Stredná odborná škola obchodu a služieb",
+			"address":{
+						"street": "Budovateľská 32",
+						"village": "Komárno",
+						"zip": "94501"
+			},
+			"district": "Komárno",
+			"region": "Nitriansky kraj",
+			"footprint": "308.889"
+	},
+	"2":{
+			"name": "Gymnázium",
+			"address":{
+						"street": "Hlinská 29",
+						"village": "Žilina",
+						"zip": "01180"
+			},
+			"district": "Žilina",
+			"region": "Žilinský kraj",
+			"footprint": "193.7869"
+	},
+	"3":{
+			"name": "Obchodná akadémia",
+			"address":{
+						"street": "Račianska 107",
+						"village": "Bratislava - Nové Mesto",
+						"zip": "83102"
+			},
+			"district": "Bratislava III",
+			"region": "Bratislavský kraj",
+			"footprint": "215.3148"
+	}
+}
